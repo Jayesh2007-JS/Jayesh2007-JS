@@ -65,3 +65,36 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align="center">
+
+  <!-- first row -->
+  <div align="center">
+    <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Jayesh2007-JS&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Jayesh2007-JS&theme=default&border=61dafb" />
+        <img align="left" width="390" src="https://github-readme-streak-stats-eight.vercel.app/?user=Jayesh2007-JS&theme=default&border=61dafb" alt="Jayesh2007-JS's streak stats" />
+      </picture>
+    </a>
+
+  </div>
+
+  <!-- spaces -->
+  <br /><br /><br />
+
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh2007-JS&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh2007-JS&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh2007-JS&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Jayesh2007-JS's contribution graph" />
+    </picture>
+  </a>
+</p>
+
+<hr />
