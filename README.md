@@ -101,3 +101,8 @@
 </p>
 
 <hr />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayesh2007-JS/Jayesh2007-JS/output/snake.svg" alt="Snake animation" />
+</p>
+
