@@ -83,9 +83,17 @@
     </a>
 
   </div>
+ <!-- github stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jayesh2007-JS&show_icons=true&theme=react&hide_border=true" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Jayesh2007-JS&show_icons=true&theme=default&border_color=61dafb" />
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Jayesh2007-JS&show_icons=true&theme=default&border_color=61dafb" alt="Jayesh2007-JS's GitHub stats" />
+  </picture>
+</a>
 
   <!-- spaces -->
-  <br /><br /><br />
+  <br /><br /><br /><br /><br /><br />
 
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
