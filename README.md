@@ -15,7 +15,7 @@
   <br />
   🧑‍💻 Cybersecurity Enthusiast | Web Developer | Tech Learner | Gamer 🎮  
   <br /><br />
-  🎓 Pursuing <b>Bachelor of Computer Applications (BCA)</b>  
+  🎓 Pursuing <b>Bachelor of Science (Computer Applications) (Bsc.CA)</b>  
   <br />
   🔐 Passionate about <b>Cybersecurity, Linux, and Ethical Hacking</b>  
   <br />
